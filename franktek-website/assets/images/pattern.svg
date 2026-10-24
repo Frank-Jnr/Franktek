@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <g fill="#FF9600">
+    <polygon points="0,40 35,40 17.5,0" />
+    <polygon points="35,40 70,40 52.5,0" />
+    <polygon points="70,40 105,40 87.5,0" />
+    <polygon points="105,40 140,40 122.5,0" />
+    <polygon points="-17.5,40 17.5,40 0,0" />
+    <polygon points="17.5,110 52.5,110 35,70" />
+    <polygon points="52.5,110 87.5,110 70,70" />
+    <polygon points="87.5,110 122.5,110 105,70" />
+    <polygon points="122.5,110 157.5,110 140,70" />
+    <polygon points="-17.5,110 17.5,110 0,70" />
+    <polygon points="0,140 35,140 17.5,100" />
+    <polygon points="70,140 105,140 87.5,100" />
+    <polygon points="105,140 140,140 122.5,100" />
+  </g>
+</svg>
